@@ -1,0 +1,25 @@
+Konfigurace	Platný JSON	Název	Datum	Čas	Místo	Celá událost	Průměrný čas
+qwen2.5:3b bez úprav	100 %	93 %	63 %	87 %	70 %	37 % (11/30)	2,24 s
+llama3.2:3b bez úprav	100 %	87 %	30 %	80 %	70 %	20 % (6/30)	2,00 s
+kalendar-qwen (upravený)	100 %	90 %	70 %	93 %	93 %	60 % (18/30)	2,28 s
+kalendar-llama (upravený)	100 %	93 %	70 %	97 %	100 %	67 % (20/30)	1,93 s
+
+Celá událost = správně datum, čas i místo zároveň. Podrobné odpovědi jsou ve vysledky.csv.
+
+nejlepší je vlastně upravený llm co vychází z llama. má dost dobrou upěšnost, pak je upravený qwen.
+
+Upravy
+- upravy dost pomohly, je to vidět v tabulce. kde llama ma v zakladu celk. uspěšnost 20% a upravený má 67%
+
+Použití
+- upřímně bych to používat nechtěl sice to chybuje málo, ale nedokážu si představit že mu řeknu něco co mám mít a pak to musím překontrolovat a upravovat... si rovnou mohu udělat sám 
+- pokud máte trpělivost a chcete si to trochu urychlit tak IG je to usable.
+
+Co splnit
+- musí se automaticky doplnovat dnesní datum asi v kodu ne přes llm 
+- kontrola datumu v minulosti 
+- zlepšit přesnost
+- zlepšit rychlost 
+
+Závěr 
+Na závěr bych rad řekl že uprava modelu má dost velký vliv. Projekt sám o sobě má smysl když si zlepšíte přesnost a rychlost. V momentálním stádiu to není použitelné, max tak jako návrhy na pridání 

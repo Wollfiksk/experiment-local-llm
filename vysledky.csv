@@ -1,0 +1,198 @@
+konfigurace,veta,odpoved,platny_json,nazev_ok,datum_ok,cas_ok,misto_ok,cele_spravne,cas_s
+qwen2.5:3b bez úprav,Zítra v 15:00 mám trénink fotbalu na hřišti.,"{""nazev"": ""Trénink fotbalu"", ""datum"": ""2026-11-25"", ""cas"": ""15:00"", ""misto"": ""Hřiště""}",True,True,True,True,True,True,2.07
+qwen2.5:3b bez úprav,Ve čtvrtek v 8 ráno píšeme test z matiky.,"{""nazev"": ""Písmo testu z matiky"", ""datum"": ""2026-11-26"", ""cas"": ""08:00"", ""misto"": ""Neteď"" }",True,True,True,True,False,False,2.18
+qwen2.5:3b bez úprav,Kino s Petrem v sobotu ve 20:30 v Cinestaru.,"{""nazev"": ""Kino s Petrem"", ""datum"": ""2026-11-30"", ""cas"": ""20:30"", ""misto"": ""Cinestaru""}",True,True,False,True,True,False,1.97
+qwen2.5:3b bez úprav,Zubař 3. prosince ve 14:15.,"{""nazev"": ""Zubař"", ""datum"": ""2026-12-03"", ""cas"": ""14:15"", ""misto"": ""Neuvedeno""}",True,True,True,True,False,False,1.87
+qwen2.5:3b bez úprav,Pozítří v 16:00 schůzka týmu v knihovně.,"{""nazev"": ""Pozítří v 16:00 schůzka týmu"", ""datum"": ""2026-11-25"", ""cas"": ""16:00"", ""misto"": ""knihovna""}",True,True,False,True,True,False,2.53
+qwen2.5:3b bez úprav,Narozeninová oslava Kláry 12. 12. od 18 hodin v Bowlingu Trutnov.,"{""nazev"": ""Narozeninová oslava Kláry"", ""datum"": ""2026-12-12"", ""cas"": ""18:00"", ""misto"": ""Bowling Trutnov""}",True,True,True,True,True,True,2.38
+qwen2.5:3b bez úprav,"Příští pondělí v 7:45 sraz na nádraží, jedeme na exkurzi.","{""nazev"": ""Sraz na nádraží"", ""datum"": ""2026-11-29"", ""cas"": ""07:45"", ""misto"": ""Nádraží""}",True,False,False,True,True,False,2.21
+qwen2.5:3b bez úprav,Odevzdat projekt do pátku.,"{""nazev"": ""Odevzdat projekt"", ""datum"": ""2026-11-27"", ""cas"": """", ""misto"": ""pátek""}",True,True,True,True,False,False,1.89
+qwen2.5:3b bez úprav,V neděli ve 12 oběd u rodičů.,"{""nazev"": ""V neděli ve 12 oběd u rodičů"", ""datum"": ""2026-11-29"", ""cas"": ""12:00"", ""misto"": ""u rodičů""}",True,True,True,True,True,True,2.81
+qwen2.5:3b bez úprav,Koncert Kryštofa 19. prosince ve 20:00 v O2 areně.,"{""nazev"": ""Koncert Kryštofa"", ""datum"": ""2026-12-19"", ""cas"": ""20:00"", ""misto"": ""O2 arena""}",True,True,True,True,True,True,2.12
+qwen2.5:3b bez úprav,Dneska v 18:00 zavolat dědovi.,"{""nazev"": """", ""datum"": ""2026-11-24"", ""cas"": ""18:00"", ""misto"": ""zavolat dědovi""}",True,False,True,True,False,False,1.93
+qwen2.5:3b bez úprav,Schůzka s třídní 1. prosince v 15:30 v kabinetu 214.,"{""nazev"": ""Schůzka s třídní 1. prosince"", ""datum"": ""2026-12-01"", ""cas"": ""15:30"", ""misto"": ""kabinet 214""}",True,True,True,True,True,True,2.61
+qwen2.5:3b bez úprav,Ve středu v půl třetí odpoledne kadeřník.,"{""nazev"": ""Kadeřník"", ""datum"": ""2026-11-27"", ""cas"": ""15:30"", ""misto"": ""Nepodálejte mi to, prosím!""}",True,True,False,False,False,False,2.33
+qwen2.5:3b bez úprav,Úterý příští týden v 10:00 zkouška na ples v tělocvičně.,"{""nazev"": ""Zkouška na ples v tělocvičně"", ""datum"": ""2026-12-08"", ""cas"": ""10:00:00"", ""misto"": ""Tělocvična""}",True,True,False,True,True,False,2.66
+qwen2.5:3b bez úprav,Lékař 7. 1. 2027 v 9:20 v poliklinice.,"{""nazev"": ""Lékař"", ""datum"": ""2027-01-07"", ""cas"": ""09:20"", ""misto"": ""poliklinice""}",True,True,True,True,True,True,1.94
+qwen2.5:3b bez úprav,Zítra ráno v 6:30 odjezd autobusu z Trutnova.,"{""nazev"": ""Odjezd autobusu"", ""datum"": ""2026-11-25"", ""cas"": ""06:30"", ""misto"": ""Trutnov""}",True,True,True,True,True,True,1.93
+qwen2.5:3b bez úprav,V pátek v 19:00 LAN párty u Honzy.,"{""nazev"": ""LAN párty u Honzy"", ""datum"": ""2026-11-26"", ""cas"": ""19:00"", ""misto"": ""LAN""}",True,True,False,True,False,False,1.91
+qwen2.5:3b bez úprav,Termín přihlášek na vysokou je 28. února.,"{""nazev"": ""Přihlášky na vysokou"", ""datum"": ""2026-02-28"", ""cas"": """", ""misto"": """"}",True,True,False,True,True,False,1.83
+qwen2.5:3b bez úprav,Vánoční besídka 22. 12. v 17:00 ve školní jídelně.,"{""nazev"": ""Vánoční besídka"", ""datum"": ""2026-12-22"", ""cas"": ""17:00"", ""misto"": ""ve školní jídelně""}",True,True,True,True,True,True,2.37
+qwen2.5:3b bez úprav,Pozítří v 11:00 online hovor s firmou přes Teams.,"{""nazev"": ""Online hovor s firmou přes Teams"", ""datum"": ""2026-11-24"", ""cas"": ""11:00"", ""misto"": ""online via Teams""}",True,True,False,True,True,False,2.13
+qwen2.5:3b bez úprav,V sobotu v 9:00 brigáda v Albertu.,"{
+  ""nazev"": ""Brigáda v Albertu"",
+  ""datum"": ""2026-12-05"",
+  ""cas"": ""09:00"",
+  ""misto"": ""Albert""
+}",True,True,False,True,True,False,2.14
+qwen2.5:3b bez úprav,Silvestr u Martina 31. 12. od 20:00.,"{""nazev"": ""Silvestr u Martina"", ""datum"": ""2026-12-31"", ""cas"": ""20:00"", ""misto"": ""Martina""}",True,True,True,True,True,True,1.94
+qwen2.5:3b bez úprav,Zítra ve čtvrt na osm písemka z fyziky.,"{""nazev"": ""Zítra ve čtvrt na osm písemka z fyziky"", ""datum"": ""2026-11-25"", ""cas"": ""04:08"", ""misto"": ""Nezadaeno""}",True,True,True,False,False,False,2.51
+qwen2.5:3b bez úprav,V neděli v 15:00 hokej Trutnov proti Vrchlabí na zimním stadionu.,"{
+  ""nazev"": ""Hokej Trutnov proti Vrchlabí"",
+  ""datum"": ""2026-11-29"",
+  ""cas"": ""15:00"",
+  ""misto"": ""zimní stadion""
+}",True,True,True,True,True,True,2.7
+qwen2.5:3b bez úprav,Vrátit knížky do knihovny do 10. prosince.,"{""nazev"": ""Vrátit knížky do knihovny"", ""datum"": ""2026-12-10"", ""cas"": ""00:00"", ""misto"": ""Nevíme"", ""pripomínka"": ""Nemíš zapomínat vrátit knížky do knihovny do 10. prosince.""}",True,True,True,False,False,False,3.79
+qwen2.5:3b bez úprav,Dnes ve 21:00 začíná stream.,"{""nazev"": ""Stream"", ""datum"": ""2026-11-24"", ""cas"": ""21:00"", ""misto"": ""Online""}",True,True,True,True,False,False,1.73
+qwen2.5:3b bez úprav,Za týden ve středu v 13:00 oběd s Evou v Pizzerii Napoli.,"{""nazev"": ""Oběd s Evou"", ""datum"": ""2026-12-01"", ""cas"": ""13:00"", ""misto"": ""Pizzeria Napoli""}",True,True,False,True,True,False,2.11
+qwen2.5:3b bez úprav,"Jízda v autoškole ve čtvrtek ve 14:00, sraz u školy.","{""nazev"": ""Jízda v autoškole"", ""datum"": ""2026-11-26"", ""cas"": ""14:00"", ""misto"": ""u školy""}",True,True,True,True,True,True,2.28
+qwen2.5:3b bez úprav,Za tři dny ve 4 odpoledne volejbal ve sportovní hale.,"{""nazev"": ""Volejbal"", ""datum"": ""2026-11-27"", ""cas"": ""14:00"", ""misto"": ""Sportovní hala""}",True,True,True,False,True,False,2.06
+qwen2.5:3b bez úprav,Na Nový rok v poledne rodinný oběd u tety.,"{""nazev"": ""Rodinný oběd u tety"", ""datum"": ""2026-12-31"", ""cas"": ""12:00"", ""misto"": ""u tety""}",True,True,False,True,True,False,2.14
+llama3.2:3b bez úprav,Zítra v 15:00 mám trénink fotbalu na hřišti.,"{
+
+  ""nazev"": ""Fotbalový trénink"",
+  ""datum"": ""2026-11-25"",
+  ""cas"": ""15:00"",
+  ""misto"": ""Hřiště""
+
+}",True,True,True,True,True,True,2.07
+llama3.2:3b bez úprav,Ve čtvrtek v 8 ráno píšeme test z matiky.,"{ ""nazev"": ""test z matiky"", ""datum"": ""2027-03-04"", ""cas"": ""08:00"", ""misto"": ""škola"" }",True,True,False,True,False,False,1.78
+llama3.2:3b bez úprav,Kino s Petrem v sobotu ve 20:30 v Cinestaru.,"{
+
+  ""nazev"": ""Kino s Petrem"",
+  ""datum"": ""2026-11-27"",
+  ""cas"": ""20:30"",
+  ""misto"": ""Cinestaru""
+}",True,True,False,True,True,False,2.07
+llama3.2:3b bez úprav,Zubař 3. prosince ve 14:15.,"{
+  ""nazev"": ""Zuba\u0161 3. prosince"",
+  ""datum"": ""2026-12-03"",
+  ""cas"": ""14:15"",
+  ""misto"": ""neviditeln\u00e9""
+}",True,True,True,True,False,False,2.33
+llama3.2:3b bez úprav,Pozítří v 16:00 schůzka týmu v knihovně.,"{ ""nazev"": ""schůzka týmu"", ""datum"": ""24.11.2026"", ""cas"": ""16:00"", ""misto"": ""knihovna"" }",True,True,False,True,True,False,1.91
+llama3.2:3b bez úprav,Narozeninová oslava Kláry 12. 12. od 18 hodin v Bowlingu Trutnov.,"{
+
+  ""nazev"": ""Narozeninová oslava Kláry"",
+  ""datum"": ""12-12-2026"",
+  ""cas"": ""18:00"",
+  ""misto"": ""Bowling Trutnov"" 
+
+}",True,True,False,True,True,False,2.4
+llama3.2:3b bez úprav,"Příští pondělí v 7:45 sraz na nádraží, jedeme na exkurzi.","{
+  ""nazev"": ""Příští pondělí sraz na nádraží"",
+  ""datum"": ""RRRR-12-06"",
+  ""cas"": ""07:45"",
+  ""misto"": ""nádraží""
+}",True,False,False,True,True,False,2.27
+llama3.2:3b bez úprav,Odevzdat projekt do pátku.,"{
+  ""nazev"": ""Odevzdat projekt"",
+  ""datum"": ""2026-12-04"",
+  ""cas"": ""09:00"",
+  ""misto"": ""Kontora""
+}",True,True,False,False,False,False,1.96
+llama3.2:3b bez úprav,V neděli ve 12 oběd u rodičů.,"{ ""nazev"": ""Neděle u rodičů"", ""datum"": ""2026-11-28"", ""cas"": ""12:00"", ""misto"": ""u rodičů"" }",True,False,False,True,True,False,1.85
+llama3.2:3b bez úprav,Koncert Kryštofa 19. prosince ve 20:00 v O2 areně.,"{
+  ""nazev"": ""Koncert Kryštofa"",
+  ""datum"": ""19-12-2026"",
+  ""cas"": ""20:00"",
+  ""misto"": ""O2 arena""
+}",True,True,False,True,True,False,2.15
+llama3.2:3b bez úprav,Dneska v 18:00 zavolat dědovi.,"{
+  ""nazev"": ""Zavolat dědovi"",
+  ""datum"": ""2026-11-24"",
+  ""cas"": ""18:00"",
+  ""misto"": """"
+}",True,True,True,True,True,True,1.92
+llama3.2:3b bez úprav,Schůzka s třídní 1. prosince v 15:30 v kabinetu 214.,"{""nazev"": ""Schůzka s třídnou"", ""datum"": ""2026-12-01"", ""cas"": ""15:30"", ""misto"": ""kabinet 214""}",True,True,True,True,True,True,2.0
+llama3.2:3b bez úprav,Ve středu v půl třetí odpoledne kadeřník.,"{ ""nazev"": ""Kadeřník"", ""datum"": ""2026-11-24"", ""cas"": ""17:00"", ""misto"": ""Ve středu"" }",True,True,False,False,False,False,1.79
+llama3.2:3b bez úprav,Úterý příští týden v 10:00 zkouška na ples v tělocvičně.,"{ ""nazev"": ""Školení na ples"", ""datum"": ""2026-11-30"", ""cas"": ""10:00"", ""misto"": ""Tělocvička"" }",True,True,False,True,True,False,2.06
+llama3.2:3b bez úprav,Lékař 7. 1. 2027 v 9:20 v poliklinice.,"{ ""nazev"": ""Lékař"", ""datum"": ""2027-01-07"", ""cas"": ""09:20"", ""misto"": ""poliklinice"" }",True,True,True,True,True,True,1.92
+llama3.2:3b bez úprav,Zítra ráno v 6:30 odjezd autobusu z Trutnova.,"{ ""nazev"": ""Odjezd autobusu"", ""datum"": ""2026-11-25"", ""cas"": ""06:30"", ""misto"": ""Trutnov"" }",True,True,True,True,True,True,1.83
+llama3.2:3b bez úprav,V pátek v 19:00 LAN párty u Honzy.,"{
+
+ ""nazev"": ""LAN párty u Honzy"",
+ ""datum"": ""2026-12-03"",
+ ""cas"": ""19:00"",
+ ""misto"": ""LAN paar ty u Honzy"" 
+
+}",True,True,False,True,True,False,2.05
+llama3.2:3b bez úprav,Termín přihlášek na vysokou je 28. února.,"{ ""nazev"": ""Termín přihlásek na vysoko"", ""datum"": ""2026-02-28"", ""cas"": ""nestrucne"", ""misto"": ""nestrucne"" }",True,True,False,False,False,False,2.05
+llama3.2:3b bez úprav,Vánoční besídka 22. 12. v 17:00 ve školní jídelně.,"{ ""nazev"": ""Vánoční besídka"", ""datum"": ""22-12-2026"", ""cas"": ""17:00"", ""misto"": ""školní jídelna"" }",True,True,False,True,True,False,2.07
+llama3.2:3b bez úprav,Pozítří v 11:00 online hovor s firmou přes Teams.,"{""nazev"": ""online hovor s firmou"", ""datum"": ""2027-01-03"", ""cas"": ""11:00"", ""misto"": ""online""}",True,True,False,True,False,False,1.79
+llama3.2:3b bez úprav,V sobotu v 9:00 brigáda v Albertu.,"{ ""nazev"": ""brigáda v Albertu"", ""datum"": ""2026-11-27"", ""cas"": ""09:00"", ""misto"": ""Albert"" }",True,True,False,True,True,False,1.83
+llama3.2:3b bez úprav,Silvestr u Martina 31. 12. od 20:00.,"{ ""nazev"": ""Silvestr u Martina"", ""datum"": ""31-12-2026"", ""cas"": ""20:00"", ""misto"": ""Martina"" }",True,True,False,True,True,False,1.88
+llama3.2:3b bez úprav,Zítra ve čtvrt na osm písemka z fyziky.,"{
+  ""nazev"": ""Zítra ve čtvrt na osm písemka z fyziky"",
+  ""datum"": ""2026-11-25"",
+  ""cas"": ""08:00"",
+  ""misto"": ""nepoznán""
+}",True,True,True,False,False,False,2.43
+llama3.2:3b bez úprav,V neděli v 15:00 hokej Trutnov proti Vrchlabí na zimním stadionu.,"{
+    ""nazev"": ""Hokej Trutnov - Vrchlabi"",
+    ""datum"": ""2026-12-26"",
+    ""cas"": ""15:00"",
+    ""misto"": ""zimní stadion""
+}",True,True,False,True,True,False,2.35
+llama3.2:3b bez úprav,Vrátit knížky do knihovny do 10. prosince.,"{
+  ""nazev"": ""Vrátit knížky do knihovny"",
+  ""datum"": ""10-12-2026"",
+  ""cas"": ""Než je den"",
+  ""misto"": """"
+}",True,True,False,False,False,False,2.04
+llama3.2:3b bez úprav,Dnes ve 21:00 začíná stream.,"{ ""nazev"": ""Stream"", ""datum"": ""24.11.2026"", ""cas"": ""21:00"", ""misto"": ""neznámé"" }",True,True,True,True,False,False,1.66
+llama3.2:3b bez úprav,Za týden ve středu v 13:00 oběd s Evou v Pizzerii Napoli.,"{ ""nazev"": ""oběd s Evou v Pizzerii Napoli"", ""datum"": ""2026-11-30"", ""cas"": ""13:00"", ""misto"": ""Pizzerii Napoli"" }",True,True,False,True,True,False,2.17
+llama3.2:3b bez úprav,"Jízda v autoškole ve čtvrtek ve 14:00, sraz u školy.","{""nazev"": ""Jízda v autoškole"", ""datum"": ""2026-11-25"", ""cas"": ""14:00"", ""misto"": ""U školy""}",True,True,False,True,True,False,1.9
+llama3.2:3b bez úprav,Za tři dny ve 4 odpoledne volejbal ve sportovní hale.,"{ ""nazev"": ""Volleybal"", ""datum"": ""24.11.2026"", ""cas"": ""17:00"", ""misto"": ""Sportovní hala"" }",True,False,False,False,True,False,1.79
+llama3.2:3b bez úprav,Na Nový rok v poledne rodinný oběd u tety.,"{ ""nazev"": ""Nový rok"", ""datum"": ""2027-01-01"", ""cas"": ""12:00"", ""misto"": ""U tety"" }",True,False,True,True,True,True,1.76
+kalendar-qwen (upravený),Zítra v 15:00 mám trénink fotbalu na hřišti.,"{""nazev"": ""Trénink fotbalu"", ""datum"": ""2026-11-25"", ""cas"": ""15:00"", ""misto"": ""hřiště""}",True,True,True,True,True,True,2.28
+kalendar-qwen (upravený),Ve čtvrtek v 8 ráno píšeme test z matiky.,"{""nazev"": ""Píšeme test"", ""datum"": ""2026-11-26"", ""cas"": ""08:00"", ""misto"": null}",True,True,True,True,True,True,2.03
+kalendar-qwen (upravený),Kino s Petrem v sobotu ve 20:30 v Cinestaru.,"{""nazev"": ""Kino s Petrem"", ""datum"": ""2026-11-27"", ""cas"": ""20:30"", ""misto"": ""Cinestaru""}",True,True,False,True,True,False,2.21
+kalendar-qwen (upravený),Zubař 3. prosince ve 14:15.,"{""nazev"": ""Zubař"", ""datum"": ""2026-12-03"", ""cas"": ""14:15"", ""misto"": null}",True,True,True,True,True,True,1.91
+kalendar-qwen (upravený),Pozítří v 16:00 schůzka týmu v knihovně.,"{""nazev"": ""Schůzka týmu"", ""datum"": ""2026-11-26"", ""cas"": ""16:00"", ""misto"": ""knihovna""}",True,True,True,True,True,True,2.37
+kalendar-qwen (upravený),Narozeninová oslava Kláry 12. 12. od 18 hodin v Bowlingu Trutnov.,"{""nazev"": ""Narozeninová oslava Kláry"", ""datum"": ""2027-12-12"", ""cas"": ""18:00"", ""misto"": ""Bowling Trutnov""}",True,True,False,True,True,False,2.62
+kalendar-qwen (upravený),"Příští pondělí v 7:45 sraz na nádraží, jedeme na exkurzi.","{""nazev"": ""Sraz na nádraží"", ""datum"": ""2026-11-30"", ""cas"": ""07:45"", ""misto"": ""na nádraží""}",True,False,True,True,True,True,2.49
+kalendar-qwen (upravený),Odevzdat projekt do pátku.,"{""nazev"": ""Odevzdat projekt"", ""datum"": ""2026-11-27"", ""cas"": null, ""misto"": null}",True,True,True,True,True,True,1.69
+kalendar-qwen (upravený),V neděli ve 12 oběd u rodičů.,"{""nazev"": ""Oběd u rodičů"", ""datum"": ""2026-11-30"", ""cas"": ""12:00"", ""misto"": ""u rodičů""}",True,True,False,True,True,False,2.33
+kalendar-qwen (upravený),Koncert Kryštofa 19. prosince ve 20:00 v O2 areně.,"{""nazev"": ""Koncert Kryštofa"", ""datum"": ""2026-12-19"", ""cas"": ""20:00"", ""misto"": ""O2 arena""}",True,True,True,True,True,True,2.3
+kalendar-qwen (upravený),Dneska v 18:00 zavolat dědovi.,"{""nazev"": ""Zavolat dědu"", ""datum"": ""2026-11-24"", ""cas"": ""18:00"", ""misto"": null}",True,True,True,True,True,True,2.16
+kalendar-qwen (upravený),Schůzka s třídní 1. prosince v 15:30 v kabinetu 214.,"{""nazev"": ""Schůzka"", ""datum"": ""2026-12-01"", ""cas"": ""15:30"", ""misto"": ""kabinet 214""}",True,True,True,True,True,True,2.6
+kalendar-qwen (upravený),Ve středu v půl třetí odpoledne kadeřník.,"{""nazev"": ""Kadeřník"", ""datum"": ""2026-11-28"", ""cas"": ""13:30"", ""misto"": null}",True,True,False,False,True,False,2.3
+kalendar-qwen (upravený),Úterý příští týden v 10:00 zkouška na ples v tělocvičně.,"{""nazev"": ""Zkouška na ples"", ""datum"": ""2026-12-01"", ""cas"": ""10:00"", ""misto"": ""tělocvičně""}",True,True,True,True,True,True,2.84
+kalendar-qwen (upravený),Lékař 7. 1. 2027 v 9:20 v poliklinice.,"{""nazev"": ""Lékař"", ""datum"": ""2027-01-07"", ""cas"": ""09:20"", ""misto"": ""poliklinice""}",True,True,True,True,True,True,2.45
+kalendar-qwen (upravený),Zítra ráno v 6:30 odjezd autobusu z Trutnova.,"{""nazev"": ""Odjezd autobusu"", ""datum"": ""2026-11-25"", ""cas"": ""06:30"", ""misto"": ""Trutnov""}",True,True,True,True,True,True,2.34
+kalendar-qwen (upravený),V pátek v 19:00 LAN párty u Honzy.,"{""nazev"": ""Párty u Honzy"", ""datum"": ""2026-11-27"", ""cas"": ""19:00"", ""misto"": ""u Honzy""}",True,False,True,True,True,True,2.22
+kalendar-qwen (upravený),Termín přihlášek na vysokou je 28. února.,"{""nazev"": ""Přihlášky na vysokou"", ""datum"": ""2026-02-28"", ""cas"": null, ""misto"": null}",True,True,False,True,True,False,2.06
+kalendar-qwen (upravený),Vánoční besídka 22. 12. v 17:00 ve školní jídelně.,"{""nazev"": ""Vánoční besídka"", ""datum"": ""2026-12-22"", ""cas"": ""17:00"", ""misto"": ""ve školní jídelně""}",True,True,True,True,True,True,2.69
+kalendar-qwen (upravený),Pozítří v 11:00 online hovor s firmou přes Teams.,"{""nazev"": ""Online hovor s firmou"", ""datum"": ""2026-11-26"", ""cas"": ""11:00"", ""misto"": null}",True,True,True,True,False,False,2.16
+kalendar-qwen (upravený),V sobotu v 9:00 brigáda v Albertu.,"{""nazev"": ""Brigáda"", ""datum"": ""2026-11-27"", ""cas"": ""09:00"", ""misto"": ""Albertu""}",True,True,False,True,True,False,2.01
+kalendar-qwen (upravený),Silvestr u Martina 31. 12. od 20:00.,"{""nazev"": ""Silvestr u Martina"", ""datum"": ""2026-12-31"", ""cas"": ""20:00"", ""misto"": ""u Martina""}",True,True,True,True,True,True,2.23
+kalendar-qwen (upravený),Zítra ve čtvrt na osm písemka z fyziky.,"{""nazev"": ""Písemka z fyziky"", ""datum"": ""2026-11-25"", ""cas"": ""08:40"", ""misto"": null}",True,True,True,False,True,False,2.21
+kalendar-qwen (upravený),V neděli v 15:00 hokej Trutnov proti Vrchlabí na zimním stadionu.,"{""nazev"": ""Hokej Trutnov proti Vrchlabí"", ""datum"": ""2026-11-30"", ""cas"": ""15:00"", ""misto"": ""zimní stadion Trutnov""}",True,True,False,True,True,False,2.77
+kalendar-qwen (upravený),Vrátit knížky do knihovny do 10. prosince.,"{""nazev"": ""Vrátit knížky"", ""datum"": ""2026-12-10"", ""cas"": null, ""misto"": null}",True,False,True,True,False,False,1.96
+kalendar-qwen (upravený),Dnes ve 21:00 začíná stream.,"{""nazev"": ""Stream"", ""datum"": ""2026-11-24"", ""cas"": ""21:00"", ""misto"": null}",True,True,True,True,True,True,1.84
+kalendar-qwen (upravený),Za týden ve středu v 13:00 oběd s Evou v Pizzerii Napoli.,"{""nazev"": ""Oběd s Evou"", ""datum"": ""2026-12-01"", ""cas"": ""13:00"", ""misto"": ""Pizzeria Napoli""}",True,True,False,True,True,False,2.29
+kalendar-qwen (upravený),"Jízda v autoškole ve čtvrtek ve 14:00, sraz u školy.","{""nazev"": ""Jízda v autoškole"", ""datum"": ""2026-11-26"", ""cas"": ""14:00"", ""misto"": ""u školy""}",True,True,True,True,True,True,2.43
+kalendar-qwen (upravený),Za tři dny ve 4 odpoledne volejbal ve sportovní hale.,"{""nazev"": ""Volejbal ve sportovní hale"", ""datum"": ""2026-11-27"", ""cas"": ""16:00"", ""misto"": ""Sportovní hala""}",True,True,True,True,True,True,2.51
+kalendar-qwen (upravený),Na Nový rok v poledne rodinný oběd u tety.,"{""nazev"": ""Rodinný oběd"", ""datum"": ""2026-12-31"", ""cas"": ""12:00"", ""misto"": ""u tety""}",True,True,False,True,True,False,2.18
+kalendar-llama (upravený),Zítra v 15:00 mám trénink fotbalu na hřišti.,"{""nazev"": ""Fotbal"", ""datum"": ""2026-11-25"", ""cas"": ""15:00"", ""misto"": ""hřiště""}",True,True,True,True,True,True,1.84
+kalendar-llama (upravený),Ve čtvrtek v 8 ráno píšeme test z matiky.,"{""nazev"": ""Test z matiky"", ""datum"": ""2026-11-26"", ""cas"": ""08:00"", ""misto"": null}",True,True,True,True,True,True,1.75
+kalendar-llama (upravený),Kino s Petrem v sobotu ve 20:30 v Cinestaru.,"{""nazev"": ""Kino s Petrem"", ""datum"": ""2026-11-28"", ""cas"": ""20:30"", ""misto"": ""Cinestaru""}",True,True,True,True,True,True,1.99
+kalendar-llama (upravený),Zubař 3. prosince ve 14:15.,"{""nazev"": ""Zubař"", ""datum"": ""2026-12-03"", ""cas"": ""14:15"", ""misto"": null}",True,True,True,True,True,True,1.69
+kalendar-llama (upravený),Pozítří v 16:00 schůzka týmu v knihovně.,"{""nazev"": ""Schůzka týmu"", ""datum"": ""2026-11-27"", ""cas"": ""16:00"", ""misto"": ""knihovna""}",True,True,False,True,True,False,2.04
+kalendar-llama (upravený),Narozeninová oslava Kláry 12. 12. od 18 hodin v Bowlingu Trutnov.,"{""nazev"": ""Klára"", ""datum"": ""2026-12-12"", ""cas"": ""18:00"", ""misto"": ""Bowling Trutnov""}",True,False,True,True,True,True,2.03
+kalendar-llama (upravený),"Příští pondělí v 7:45 sraz na nádraží, jedeme na exkurzi.","{""nazev"": ""Exkurze"", ""datum"": ""2026-12-01"", ""cas"": ""07:45"", ""misto"": ""nádraží""}",True,True,False,True,True,False,1.89
+kalendar-llama (upravený),Odevzdat projekt do pátku.,"{""nazev"": ""Odevzdat projekt"", ""datum"": ""2026-11-27"", ""cas"": null, ""misto"": null}",True,True,True,True,True,True,1.62
+kalendar-llama (upravený),V neděli ve 12 oběd u rodičů.,"{""nazev"": ""Oběd u rodičů"", ""datum"": ""2026-11-28"", ""cas"": ""12:00"", ""misto"": ""u rodičů""}",True,True,False,True,True,False,1.93
+kalendar-llama (upravený),Koncert Kryštofa 19. prosince ve 20:00 v O2 areně.,"{""nazev"": ""Koncert Kryštofa"", ""datum"": ""2026-12-19"", ""cas"": ""20:00"", ""misto"": ""O2 arena""}",True,True,True,True,True,True,2.06
+kalendar-llama (upravený),Dneska v 18:00 zavolat dědovi.,"{""nazev"": ""Zavolat dědovi"", ""datum"": ""2026-11-24"", ""cas"": ""18:00"", ""misto"": null}",True,True,True,True,True,True,1.87
+kalendar-llama (upravený),Schůzka s třídní 1. prosince v 15:30 v kabinetu 214.,"{""nazev"": ""Schůzka s třídní"", ""datum"": ""2026-12-01"", ""cas"": ""15:30"", ""misto"": ""kabinet 214""}",True,True,True,True,True,True,2.17
+kalendar-llama (upravený),Ve středu v půl třetí odpoledne kadeřník.,"{""nazev"": ""Kadeřník"", ""datum"": ""2026-11-25"", ""cas"": ""14:30"", ""misto"": null}",True,True,True,True,True,True,1.72
+kalendar-llama (upravený),Úterý příští týden v 10:00 zkouška na ples v tělocvičně.,"{""nazev"": ""Zku\u016fka na ples"", ""datum"": ""2026-12-07"", ""cas"": ""10:00"", ""misto"": ""tělocvi\u010dka""}",True,True,False,True,True,False,2.37
+kalendar-llama (upravený),Lékař 7. 1. 2027 v 9:20 v poliklinice.,"{""nazev"": ""Lékař"", ""datum"": ""2027-01-07"", ""cas"": ""09:20"", ""misto"": ""poliklinice""}",True,True,True,True,True,True,2.03
+kalendar-llama (upravený),Zítra ráno v 6:30 odjezd autobusu z Trutnova.,"{""nazev"": ""Odjezd autobusu"", ""datum"": ""2026-11-25"", ""cas"": ""06:30"", ""misto"": ""Trutnov""}",True,True,True,True,True,True,1.93
+kalendar-llama (upravený),V pátek v 19:00 LAN párty u Honzy.,"{""nazev"": ""LAN párty u Honzy"", ""datum"": ""2026-11-27"", ""cas"": ""19:00"", ""misto"": ""u Honzy""}",True,True,True,True,True,True,1.91
+kalendar-llama (upravený),Termín přihlášek na vysokou je 28. února.,"{""nazev"": ""Přihlašky"", ""datum"": ""2027-02-28"", ""cas"": null, ""misto"": null}",True,True,True,True,True,True,1.68
+kalendar-llama (upravený),Vánoční besídka 22. 12. v 17:00 ve školní jídelně.,"{""nazev"": ""Vánoční besídka"", ""datum"": ""2026-12-22"", ""cas"": ""17:00"", ""misto"": ""školní jídelna""}",True,True,True,True,True,True,2.19
+kalendar-llama (upravený),Pozítří v 11:00 online hovor s firmou přes Teams.,"{""nazev"": ""Online hovor"", ""datum"": ""2026-11-27"", ""cas"": ""11:00"", ""misto"": ""Teams""}",True,True,False,True,True,False,1.8
+kalendar-llama (upravený),V sobotu v 9:00 brigáda v Albertu.,"{""nazev"": ""Brigáda"", ""datum"": ""2026-11-27"", ""cas"": ""09:00"", ""misto"": ""Albert""}",True,True,False,True,True,False,1.81
+kalendar-llama (upravený),Silvestr u Martina 31. 12. od 20:00.,"{""nazev"": ""Silvestr u Martina"", ""datum"": ""2027-01-01"", ""cas"": ""20:00"", ""misto"": ""u Martina""}",True,True,False,True,True,False,2.01
+kalendar-llama (upravený),Zítra ve čtvrt na osm písemka z fyziky.,"{""nazev"": ""Písemka z fyziky"", ""datum"": ""2026-11-25"", ""cas"": ""14:30"", ""misto"": null}",True,True,True,False,True,False,1.86
+kalendar-llama (upravený),V neděli v 15:00 hokej Trutnov proti Vrchlabí na zimním stadionu.,"{""nazev"": ""Hokej Trutnov"", ""datum"": ""2026-11-28"", ""cas"": ""15:00"", ""misto"": ""zimní stadion""}",True,True,False,True,True,False,2.13
+kalendar-llama (upravený),Vrátit knížky do knihovny do 10. prosince.,"{""nazev"": ""Vrátit knížky"", ""datum"": ""2026-12-10"", ""cas"": null, ""misto"": ""knihovna""}",True,False,True,True,True,True,1.83
+kalendar-llama (upravený),Dnes ve 21:00 začíná stream.,"{""nazev"": ""Stream"", ""datum"": ""2026-11-24"", ""cas"": ""21:00"", ""misto"": null}",True,True,True,True,True,True,1.6
+kalendar-llama (upravený),Za týden ve středu v 13:00 oběd s Evou v Pizzerii Napoli.,"{""nazev"": ""Oběd s Evou"", ""datum"": ""2026-12-02"", ""cas"": ""13:00"", ""misto"": ""Pizzerii Napoli""}",True,True,True,True,True,True,2.05
+kalendar-llama (upravený),"Jízda v autoškole ve čtvrtek ve 14:00, sraz u školy.","{""nazev"": ""Jízda v autoškole"", ""datum"": ""2026-11-26"", ""cas"": ""14:00"", ""misto"": ""u školy""}",True,True,True,True,True,True,2.05
+kalendar-llama (upravený),Za tři dny ve 4 odpoledne volejbal ve sportovní hale.,"{""nazev"": ""Volejbal"", ""datum"": ""2026-11-29"", ""cas"": ""16:00"", ""misto"": ""sportovní hale""}",True,True,False,True,True,False,1.92
+kalendar-llama (upravený),Na Nový rok v poledne rodinný oběd u tety.,"{""nazev"": ""Rodinný oběd u tety"", ""datum"": ""2027-01-01"", ""cas"": ""12:00"", ""misto"": ""u tety""}",True,True,True,True,True,True,2.05
